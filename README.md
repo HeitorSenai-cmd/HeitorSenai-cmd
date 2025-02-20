@@ -3,7 +3,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Luzardo Lustosa,  sou natural do Piaui. Concluí meu curso técnico em informática 2009. Concluí Análise e Desenvolvimento de Sistemas em 2014. 
+Me chamo Francisco Heitor,  sou natural do Piaui. estou cursando o curso imformatica para internet.
 
 <p align="left">
     <a href="https://www.youtube.com/@HeitorSENAI-cmd?sub_confirmation=1">
