@@ -3,7 +3,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Francisco Heitor,  sou natural do Piaui. estou cursando o curso imformatica para internet.
+Me chamo Francisco Heitor,  sou natural do Piaui. estou cursando o curso Informática para Internet (SENAI).
 
 <p align="left">
     <a href="https://www.youtube.com/@HeitorSENAI-cmd?sub_confirmation=1">
